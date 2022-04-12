@@ -1,5 +1,5 @@
 # Finance Tracking App
-> Learning Project 7: Flappy Bird
+> Learning Project 5
 
 Part of my personal learning projects, this responsive website demonstrates my ability to use:
 - HTML
